@@ -1,7 +1,7 @@
 # 🔦 AI Vision Emergency Lighting Detection
 
 ## 📍 Repository
-**GitHub**: https://github.com/shivam250812/AI-Vision.git
+**GitHub**: https://github.com/LukeshPawar/AI-VISION
 
 ## Overview
 
